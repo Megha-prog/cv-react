@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+/* font-family: 'Inter', sans-serif; */
+img {
+  width: 317px;
+}
+
+.main {
+  width: 317px;
+  background-color: #f5f5f5;
+  border-radius: 10px 10px 10px 10px;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: 1.3;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  background-color: #23252c;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.titles {
+  margin-top: 26px;
+  margin-bottom: 22px;
+  color: #4a4e74;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 3px;
+  line-height: 30px;
+}
+
+.job {
+  color: #f47d27;
+  font-weight: 400;
+  font-size: 12.8px;
+}
+
+.website {
+  font-weight: 400;
+  font-size: 10.24px;
+}
+
+.informations {
+  height: 399px;
+  width: 317px;
+  overflow: hidden;
+}
+
+.about {
+  text-align: left;
+  font-size: 10.24px;
+  margin: 0px 35px;
+}
+.atitle {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #2b283a;
+  margin-bottom: 5px;
+}
+
+.stitle {
+  width: 247px;
+  margin-bottom: 14px;
+  color: #4a4e74;
+  line-height: 150%;
+}
+
+.footer {
+  background: #d5d4d8;
+  width: 317px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+  width: 317px;
+  padding: 0px 35px 22px 35px;
+}
+.btn-github {
+  color: white;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 115px;
+  height: 34px;
+  background: #297fe5;
+  /* shadow/sm */
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+a {
+  text-decoration: none;
+}
+a:visited,
+a:link {
+  color: black;
+}
+.btn-text {
+  margin-left: 9.5px;
+}
+
+.btn-text-git {
+  color: white;
+}
+.btn-email {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 115px;
+  height: 34px;
+  background: #ffffff;
+
+  border: 1px solid #d1d5db;
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+
+.social_icons {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 72px;
+  width: 317px;
+}
+
+.social_icon {
+  height: 25px;
+}
+
+svg {
+  fill: #918e9b;
+  transition: 0.3s;
+}
+
+svg:hover {
+  fill: #5a5861;
+}
