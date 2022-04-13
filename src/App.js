@@ -34,7 +34,7 @@ function Titles() {
   return (
     <div className="titles">
       <h1 className="title">Megha Dogra</h1>
-      <h2 className="job">Frontend Developer</h2>
+      <h2 className="job">Fullstack Developer</h2>
       <a href="https://github.com/Megha-prog" className="website">
         megha.com
       </a>
