@@ -89,14 +89,11 @@ function About() {
     <div className="about">
       <h1 className="atitle">About</h1>
       <p className="stitle">
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am a Full Stack developer 
       </p>
       <h1 className="atitle">Interests</h1>
       <p className="stitle">
-        Youtuber . Leadership. Full stack developer.Mother. Self starter .
-        Optimistic. Yoga . Meditation.
+        Javascript Node/Express React Mysql MongoDb CSS HTML SASS
       </p>
     </div>
   );
